@@ -1,7 +1,10 @@
 /* Estilos personalizados para UNAGRA Sociedad financiera
  */
 /* <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">Foto de Negocios creado por freepik - www.freepik.es</a>*/
-
+body {
+    margin: 0px !important;
+    padding: 0px !important;
+}
 .jumbotronUNA {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
