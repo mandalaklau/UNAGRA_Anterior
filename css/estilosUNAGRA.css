@@ -60,12 +60,20 @@ body {
 .espacioVB{
 	    margin-bottom: 6rem;
 }
+.separador{
+    border-bottom: 1px solid #cccccc;
+    margin-left:2rem; 
+} 
 .img-fluid {
         width: auto;
     overflow: hidden;
     height: auto;
     margin-bottom:53px;
 }
+.iconP{font-weight: 900;
+    width: 4rem;
+    text-align: center;}
+
 
 .img-absolute {
        position: absolute;
@@ -117,6 +125,12 @@ body {
     color: orange;
     text-align: left;
 }
+
+.text-gray-300 {
+    color: #dddfeb!important;
+    float: right;
+}
+
 figure .fa-users{
         font-size: 25em;
         color: orange;
