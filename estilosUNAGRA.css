@@ -1,0 +1,175 @@
+/* Estilos personalizados para UNAGRA Sociedad financiera
+ */
+/* <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">Foto de Negocios creado por freepik - www.freepik.es</a>*/
+body {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.jumbotronUNA {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background: url("../img/Grupo 223.png")no-repeat 0% 90%/cover #e9ecef;
+    height: 600px;
+}
+
+.jumbotronVal{
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    background: url("../img/uniespecializada.png")no-repeat 0px 0px/cover #e9ecef;
+    /*height: 410px;*/
+    color: #FFFFFF;
+}
+.jumbotronUE{
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    background: url("../img/valores_img.png")no-repeat 0px 0px/cover #e9ecef;
+    /*height: 410px;*/
+    color: #FFFFFF;
+}
+.jumbotroninfo{
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    background: url("../img/infofinanciera.png")no-repeat 0px 0px/cover #e9ecef;
+    /*height: 410px;*/
+    color: #FFFFFF;
+}
+.jumbotronRED{
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    background: url("../img/red01.png")no-repeat 0px 0px/cover #e9ecef;
+    /*height: 410px;*/
+    color: #FFFFFF;
+}
+.jumbotronRED2{
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    background: url("../img/red2.png")no-repeat 0px 0px/cover #e9ecef;
+    /*height: 410px;*/
+    color: #FFFFFF;
+}
+.tituno{ color: #054B92;
+		 font-weight:700;
+ }
+.titdos {
+    color: #057185;
+    font-weight: lighter;
+}
+.espacioV{
+	    margin-top: 6rem;
+}
+.espacioVB{
+	    margin-bottom: 6rem;
+}
+.separador{
+    border-bottom: 1px solid #cccccc;
+    margin-left:2rem; 
+} 
+.img-fluid {
+     /*   width: auto;
+    overflow: hidden;
+    height: auto;*/
+    margin-bottom:53px;
+}
+.iconP{font-weight: 900;
+    width: 4rem;
+    text-align: center;}
+
+
+.img-absolute {
+       position: absolute;
+    max-width: 45%;
+    bottom: 16px;
+    right: 200px;
+}
+.bg-vision{
+	background: url("../img/Grupo 03.png")no-repeat 0px 72%/cover #e9ecef;
+    height: 382px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.jumbotronDos {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background: url("../img/Grupo 224@2x.png")no-repeat 0px 72%/cover #e9ecef;
+    height: 350px;
+    color: #FFFFFF;
+    text-align: right;
+}
+.jumbotronTres {
+    padding: 2rem 1rem;
+    background: url("../img/Grupo 207.png")no-repeat 0px 72%/cover #e9ecef;
+    height: 550px;
+    color: #FFFFFF;
+    text-align: right;
+}
+.jumbotronCuatro {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background: url("../img/Grupo 224@2x.png")no-repeat 0px 72%/cover #e9ecef;
+    height: 350px;
+    color: #FFFFFF;
+    text-align: right;
+}
+.marginV{
+	margin: 3rem;
+}
+
+.servicios .fas {
+	font-size: 6em;
+	color: #0872BA;
+	text-align: center;
+}
+.tipos .fas{
+    font-size: 5em;
+    color: orange;
+    text-align: left;
+}
+
+.text-gray-300 {
+    color: #dddfeb!important;
+    float: right;
+}
+
+figure .fa-users{
+        font-size: 25em;
+        color: orange;
+        text-align: left;
+        top: 190px;
+        position: absolute;
+            }
+.tipos img {
+    width: 5em;
+    color: orange;
+    text-align: left;
+}
+.numero {
+    font-size: 3em;
+    font-weight: 400;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(247,124,33,1.1);
+}
+.plecafinal{
+    height: 10px;
+    background-color: #1fc8db;
+    background-image: linear-gradient(141deg, #05C1AB 0%, #08 51%, ); 
+    /*background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%); */
+}
+p{
+    font-weight: normal;
+}
+.text-footer{
+        color: #6c757d!important;
+    font-size: .9em;
+    font-weight: lighter;
+}
+
+/*ESTILOS PAG INVERSIÖN*/
+.imginversion{    
+    width: 90%;
+    float: right;
+}
